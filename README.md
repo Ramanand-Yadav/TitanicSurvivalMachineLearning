@@ -4,6 +4,7 @@ using machine learning to create a model that predicts which passengers survived
 use **streamlit run app.py** to run this app
 
 lookup of webapp
+
 ![image1](pimg1.png)
 ![image2](pimg2.png)
 ![image3](pimg3.png)

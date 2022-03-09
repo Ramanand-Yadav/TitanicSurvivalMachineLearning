@@ -3,6 +3,9 @@ using machine learning to create a model that predicts which passengers survived
 
 use **streamlit run app.py** to run this app
 
+## **Note :**
+ipynb notebook contains all the data preprocessing, Pipeline Building and final Model buildin part....
+
 lookup of webapp
 
 ![image1](pimg1.png)
